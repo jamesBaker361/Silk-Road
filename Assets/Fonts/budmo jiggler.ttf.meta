@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 108a4bd4c78634cd7a972c0198cb8700
+timeCreated: 1512879103
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Budmo
+  fontNames:
+  - Budmo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
